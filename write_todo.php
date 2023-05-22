@@ -7,6 +7,7 @@ $row = [
   "2021-05-20",
   "yet",
   "PHPを理解する",
+  "Practice",
 ];
 fputcsv($handle, $row);
 
