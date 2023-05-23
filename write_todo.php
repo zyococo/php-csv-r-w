@@ -8,6 +8,7 @@ $row = [
   "yet",
   "PHPを理解する",
   "Practice",
+  "Practice2",
 ];
 fputcsv($handle, $row);
 
